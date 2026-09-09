@@ -1,0 +1,4 @@
+# minikv_backup 依赖
+# 安装方式：pip install -r requirements.txt
+# 目前只有一个依赖：pymysql（Python 连接 MySQL 的驱动）
+pymysql>=1.1.0
